@@ -1,2 +1,2 @@
-# Java-Program-for-Tahera
+# Java-Program
 object oriented programming in java
